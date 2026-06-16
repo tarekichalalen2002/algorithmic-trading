@@ -1,0 +1,5 @@
+node_modules/
+.session/
+article_links.json
+articles.json
+articles_with_sentiment*.json

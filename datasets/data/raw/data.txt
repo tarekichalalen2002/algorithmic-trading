@@ -1,0 +1,10 @@
+gate.decodo.com:10001:sp9ykl4gky:qggR2ox6My1~rgr7QX
+gate.decodo.com:10002:sp9ykl4gky:qggR2ox6My1~rgr7QX
+gate.decodo.com:10003:sp9ykl4gky:qggR2ox6My1~rgr7QX
+gate.decodo.com:10004:sp9ykl4gky:qggR2ox6My1~rgr7QX
+gate.decodo.com:10005:sp9ykl4gky:qggR2ox6My1~rgr7QX
+gate.decodo.com:10006:sp9ykl4gky:qggR2ox6My1~rgr7QX
+gate.decodo.com:10007:sp9ykl4gky:qggR2ox6My1~rgr7QX
+gate.decodo.com:10008:sp9ykl4gky:qggR2ox6My1~rgr7QX
+gate.decodo.com:10009:sp9ykl4gky:qggR2ox6My1~rgr7QX
+gate.decodo.com:10010:sp9ykl4gky:qggR2ox6My1~rgr7QX

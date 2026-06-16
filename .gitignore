@@ -1,2 +1,53 @@
-/datasets
-.ipynb_checkpoints
+# Python environments
+gold_env/
+venv/
+.venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Scrapers — browser sessions & scrape outputs
+**/.session/
+NLPTask/prb/article_links.json
+NLPTask/prb/articles.json
+NLPTask/prb/articles_with_sentiment*.json
+
+# Generated datasets (rebuild via datasets/scripts/run_pipeline.py)
+datasets/data/by_domain/
+datasets/data/prices/
+datasets/data/processed/
+NLPTask/data/*.csv
+
+# Model checkpoints (retrain via NLPTask/goldBERT.ipynb)
+NLPTask/goldbert-finetuned/
+**/checkpoint-*/
+
+# Inference outputs
+NLPTask/results/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Secrets
+.env
+.env.*
+*.pem
+credentials.json

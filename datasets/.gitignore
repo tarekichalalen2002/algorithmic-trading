@@ -1,0 +1,17 @@
+# Scrapers
+scrapers/node_modules/
+scrapers/.session/
+
+# Large generated datasets (keep raw source CSV in repo if desired)
+data/processed/
+data/by_domain/
+data/prices/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+*.swp
